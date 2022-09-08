@@ -1,6 +1,6 @@
-import './App.css';
 import Title from './components/Title';
-import Setup from './examples/2-headers'
+import Setup from './examples/4-global-instance';
+import './axios/global';
 
 function App() {
   return (
